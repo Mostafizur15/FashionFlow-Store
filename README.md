@@ -21,5 +21,6 @@ FashionFlow Store is an e-commerce application developed using the Spring MVC fr
 - **Hibernate:** For ORM and database interaction
 - **MySQL:** Database for storing product, user, and transaction data
 - **Tomcat Server:** For deploying and running the application locally
+- **Maven:** For project management and building automation
 
 
